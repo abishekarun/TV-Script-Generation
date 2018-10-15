@@ -2,7 +2,7 @@
 
 In this project, we try to train a word level language model using RNN on Simpsons Series.This project was done as part of Neural Network Foundations Nanodegree program at Udacity. 
 
-The Jupyter notebook with standard rnn model can be found [here](https://github.com/abishekarun/TV-Script-Generation/blob/master/simpsons_script.ipynb).
+The Jupyter notebook with standard rnn model can be found [here](https://nbviewer.jupyter.org/github/abishekarun/TV-Script-Generation/blob/master/simpsons_script.ipynb).
 
 The resources that helped me are:
 
